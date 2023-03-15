@@ -1,0 +1,21 @@
+.glass{
+    width: 400px;
+    height: 500px;
+    background-color:black;
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+#screen{
+    width: 250px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 60px;
+    pointer-events: none;
+}
+.btn{
+    width: 46px;
+    height: 24px;
+    margin-left: 35px;
+    margin-top: 50px;
+}
